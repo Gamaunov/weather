@@ -1,5 +1,6 @@
 ## `API` 
-Note: The OpenWeather API uses an API key. Create a file `.env` (REACT_APP_API_KEY=`your_API_key `) and insert the value of your API key (which you can get when registering on the `OpenWeather` API website).
+Note: The OpenWeather API uses an API key. Create a file `.env` (REACT_APP_API_KEY=`your_API_key `) and insert the value of your API key (which you can get when registering on the <a href='https://openweathermap.org/' targrt='_blanc'>OpenWeather<a/> API website).
+
 
 
 
